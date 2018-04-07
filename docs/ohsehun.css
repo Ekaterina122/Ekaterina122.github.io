@@ -1,8 +1,8 @@
 ﻿.carousel {
-  height: 800px !important;
+  height: 300px !important;
 }
 .carousel-inner img {
-  height: 100px !important;
+  height: 1000px !important;
   margin: 0 auto;
 }
 .carousel-indicators li {
