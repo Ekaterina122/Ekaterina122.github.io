@@ -4,7 +4,7 @@
 }
 .carousel-inner img {
   height: 1000px !important;
-  margin: 0 auto;
+  margin: 100 auto;
 }
 .carousel-indicators li {
   border-color: #000;
