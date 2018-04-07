@@ -2,7 +2,7 @@
   height: 800px !important;
 }
 .carousel-inner img {
-  height: 1000px !important;
+  height: 100px !important;
   margin: 0 auto;
 }
 .carousel-indicators li {
@@ -21,7 +21,7 @@
 .carousel-inner img {
   left: 50%;
   max-width: 800px;
-  min-height: 300px;
+  min-height: 800px;
   
   position: absolute;
   top: 500px;
